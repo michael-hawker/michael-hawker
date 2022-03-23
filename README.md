@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 - RadialGradientBrush (and other initial Toolkit brushes like BackdropBlurBrush and ImageBlendBrush)
 - 2nd Iteration of Toolkit Graph Controls (including GraphPresenter)
 - ConstrainedBox
+- SizerBase/ContentSizer/PropertySizer (coming soon!)
 - Monaco Editor Wrapper (enabled the Live editing in the Toolkit Sample App and XAML Studio!)
 
 ## Stats
