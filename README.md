@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I made [XAML Studio](https://aka.ms/xamlstudio) through the [Microsoft Garage](https://www.microsoft.com/en-us/garage/profiles/xaml-studio/) starting as 'XAMLPad+' during a hackathon.
 
-## UWP Controls I've created for the Toolkit
+## Controls I've created for the Toolkit
 
 - TabView (now part of WinUI!)
 - TokenizingTextBox
@@ -25,8 +25,9 @@ Here are some ideas to get you started:
 - RadialGradientBrush (and other initial Toolkit brushes like BackdropBlurBrush and ImageBlendBrush)
 - 2nd Iteration of Toolkit Graph Controls (including GraphPresenter)
 - ConstrainedBox
+- AttachedDropShadow (based off of [ryken100](https://github.com/Ryken100)'s amazing AttachedCardShadow work and the original DropShadowPanel by [dupuyjs](https://github.com/dupuyjs))
 - SizerBase/ContentSizer/PropertySizer (coming soon!)
-- Monaco Editor Wrapper (enabled the Live editing in the Toolkit Sample App and XAML Studio!)
+- [Monaco Editor Wrapper](https://github.com/hawkerm/monaco-editor-uwp) (enables the Live editing in the Toolkit Sample App and XAML Studio!)
 
 ## Stats
 
