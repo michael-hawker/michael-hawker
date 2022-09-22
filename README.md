@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 
 ## Controls I've created for the Toolkit
 
+### Shipped Components
+
 - TabView (now part of WinUI!)
 - TokenizingTextBox
 - SwitchPresenter
@@ -26,8 +28,14 @@ Here are some ideas to get you started:
 - 2nd Iteration of Toolkit Graph Controls (including GraphPresenter)
 - ConstrainedBox
 - AttachedDropShadow (based off of [ryken100](https://github.com/Ryken100)'s amazing AttachedCardShadow work and the original DropShadowPanel by [dupuyjs](https://github.com/dupuyjs))
-- SizerBase/ContentSizer/PropertySizer (coming soon!)
 - [Monaco Editor Wrapper](https://github.com/hawkerm/monaco-editor-uwp) (enables the Live editing in the Toolkit Sample App and XAML Studio!)
+
+### [Windows Community Toolkit Labs](https://aka.ms/toolkit/labs/windows) components (in development)
+
+- [Modern Adorners for UWP/WinUI3](https://github.com/CommunityToolkit/Labs-Windows/discussions/278)
+- [CanvasLayout](https://github.com/CommunityToolkit/Labs-Windows/issues/213)
+- [CanvasView](https://github.com/CommunityToolkit/Labs-Windows/issues/212)
+- [SizerBase/ContentSizer/PropertySizer](https://github.com/CommunityToolkit/Labs-Windows/issues/101)
 
 ## Stats
 
