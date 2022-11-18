@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently maintaining the [Windows Community Toolkit](https://aka.ms/windowstoolkit).
 - 💬 Ask me about XAML, C#, UWP, and WinUI 3
 - 🦙 Check out my [🦙 Learnings series](https://www.twitch.tv/collections/xbkwqgT9QRbxUw) of my curated Twitch highlights.
-- 📫 How to reach me: [Discord](https://discord.gg/zBA5aCn), [Twitter](https://twitter.com/XAMLLlama), [Twitch](https://twitch.tv/XAMLLlama)
+- 📫 How to reach me: [Discord](https://discord.gg/zBA5aCn), <a rel="me" href="https://hachyderm.io/@XAMLLlama">Mastodon</a>, [Twitter](https://twitter.com/XAMLLlama), [Twitch](https://twitch.tv/XAMLLlama)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I made [XAML Studio](https://aka.ms/xamlstudio) through the [Microsoft Garage](https://www.microsoft.com/en-us/garage/profiles/xaml-studio/) starting as 'XAMLPad+' during a hackathon.
 
