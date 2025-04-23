@@ -9,10 +9,10 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ... 
 -->
 
-- 🔭 I’m currently maintaining the [Windows Community Toolkit](https://aka.ms/windowstoolkit).
-- 💬 Ask me about XAML, C#, UWP, and WinUI 3
-- 🦙 Check out my [🦙 Learnings series](https://www.twitch.tv/collections/xbkwqgT9QRbxUw) of my curated Twitch highlights.
-- 📫 How to reach me: [Discord](https://discord.gg/zBA5aCn), <a rel="me" href="https://hachyderm.io/@XAMLLlama">Mastodon</a>, [Twitter](https://twitter.com/XAMLLlama), [Twitch](https://twitch.tv/XAMLLlama)
+- 🔭 I've maintained the [Windows Community Toolkit](https://aka.ms/windowstoolkit) and the [Community Toolkit organization](https://github.com/CommunityToolkit).
+- 💬 Ask me about XAML, C#, and WinUI
+- 🦙 Check out my [YouTube Channel](https://www.youtube.com/@XAMLLlama), my appearances on [WindowsDevelopers](https://www.youtube.com/playlist?list=PLI_J2v67C23ZqsolUDaHoFkF1GKvGrttB), or my older [🦙 Learnings series](https://www.twitch.tv/collections/xbkwqgT9QRbxUw) of my curated Twitch highlights.
+- 📫 How to reach me: [Bluesky](https://bsky.app/profile/xamlllama.bsky.social), <a rel="me" href="https://hachyderm.io/@XAMLLlama">Mastodon</a>, [Twitter](https://twitter.com/XAMLLlama), [Discord](https://discord.gg/zBA5aCn), [Twitch](https://twitch.tv/XAMLLlama)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I made [XAML Studio](https://aka.ms/xamlstudio) through the [Microsoft Garage](https://www.microsoft.com/en-us/garage/profiles/xaml-studio/) starting as 'XAMLPad+' during a hackathon.
 
@@ -22,20 +22,20 @@ Here are some ideas to get you started:
 
 - TabView (now part of WinUI!)
 - TokenizingTextBox
-- SwitchPresenter
-- UniformGrid
+- SwitchPresenter (and SwitchConverter 2.0)
+- UniformGrid (2.0)
+- SizerBase/ContentSizer/PropertySizer/Revamped GridSplitter
 - RadialGradientBrush (and other initial Toolkit brushes like BackdropBlurBrush and ImageBlendBrush)
 - 2nd Iteration of Toolkit Graph Controls (including GraphPresenter)
 - ConstrainedBox
 - AttachedDropShadow (based off of [ryken100](https://github.com/Ryken100)'s amazing AttachedCardShadow work and the original DropShadowPanel by [dupuyjs](https://github.com/dupuyjs))
-- [Monaco Editor Wrapper](https://github.com/hawkerm/monaco-editor-uwp) (enables the Live editing in the Toolkit Sample App and XAML Studio!)
+- [Monaco Editor Wrapper](https://github.com/hawkerm/monaco-editor-uwp) (enables the Live editing in the original Toolkit Sample App and XAML Studio!)
 
 ### [Windows Community Toolkit Labs](https://aka.ms/toolkit/labs/windows) components (in development)
 
 - [Modern Adorners for UWP/WinUI3](https://github.com/CommunityToolkit/Labs-Windows/discussions/278)
 - [CanvasLayout](https://github.com/CommunityToolkit/Labs-Windows/issues/213)
 - [CanvasView](https://github.com/CommunityToolkit/Labs-Windows/issues/212)
-- [SizerBase/ContentSizer/PropertySizer](https://github.com/CommunityToolkit/Labs-Windows/issues/101)
 
 ## Stats
 
