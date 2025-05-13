@@ -36,6 +36,7 @@ Here are some ideas to get you started:
 - [Modern Adorners for UWP/WinUI3](https://github.com/CommunityToolkit/Labs-Windows/discussions/278)
 - [CanvasLayout](https://github.com/CommunityToolkit/Labs-Windows/issues/213)
 - [CanvasView](https://github.com/CommunityToolkit/Labs-Windows/issues/212)
+- [DataTable](https://github.com/CommunityToolkit/Labs-Windows/discussions/415)
 
 ## Stats
 
@@ -43,6 +44,8 @@ Here are some ideas to get you started:
 
 [![Llama's GitHub stats](https://github-readme-stats.vercel.app/api?username=michael-hawker&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Llama's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=michael-hawker&theme=buefy)](https://git.io/streak-stats)
+[![Llama's GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=michael-hawker&theme=buefy)](https://git.io/streak-stats)
 
 <a href="https://stackoverflow.com/users/8798708/michael-hawker-msft"><img src="https://stackoverflow.com/users/flair/8798708.png" width="208" height="58" alt="profile for Michael Hawker - MSFT at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Michael Hawker - MSFT at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+
+For personal projects [see here](https://mikeware.com/).
